@@ -1,0 +1,158 @@
+1580302067598	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledXbWyd"
+1580302068816	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580302069084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580302069085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580302069085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580302069085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580302073318	Marionette	INFO	Listening on port 36163
+1580302073419	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+1580302077240	Marionette	INFO	Stopped listening on port 36163
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+1580302351360	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1WK7nA"
+1580302352157	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580302352384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580302352384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580302352384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580302352384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580302355920	Marionette	INFO	Listening on port 37835
+1580302355978	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1580302503315	Marionette	INFO	Stopped listening on port 37835
+1580302511146	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemLnNfI"
+1580302512003	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580302512209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580302512209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580302512209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580302512210	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580302515447	Marionette	INFO	Listening on port 36719
+1580302515536	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1580302685939	Marionette	INFO	Stopped listening on port 36719
+1580302686177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletZ3Nnp"
+1580302687117	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580302687320	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580302687320	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580302687320	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580302687320	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580302690809	Marionette	INFO	Listening on port 38095
+1580302690896	Marionette	WARN	TLS certificate errors will be ignored for this session
+PluralForm.jsm: Index #1 of '#1 차단됨' for value 0 is invalid -- plural rule #1; called by setTrackersBlockedCounter
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1580303018004	Marionette	INFO	Stopped listening on port 38095
+1580303019264	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefznGmG"
+1580303020129	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580303020333	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580303020333	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580303020333	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580303020333	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580303024130	Marionette	INFO	Listening on port 34911
+1580303024239	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580303142550	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile80WeiL"
+1580303143353	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580303143557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580303143557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580303143557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580303143557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580303146986	Marionette	INFO	Listening on port 46715
+1580303147069	Marionette	WARN	TLS certificate errors will be ignored for this session
+PluralForm.jsm: Index #1 of '#1 차단됨' for value 0 is invalid -- plural rule #1; called by setTrackersBlockedCounter
+PluralForm.jsm: Index #1 of '#1 차단됨' for value 0 is invalid -- plural rule #1; called by setTrackersBlockedCounter
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590011,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x670029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1580303349926	Marionette	INFO	Stopped listening on port 46715
+1580303353483	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--no-sandbox" "--disable-dev-shm-usage" "user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS7FrdH"
+1580303354308	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580303354510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580303354510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580303354510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580303354511	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1580303359923	Marionette	INFO	Listening on port 42839
+1580303360009	Marionette	WARN	TLS certificate errors will be ignored for this session
+PluralForm.jsm: Index #1 of '#1 차단됨' for value 0 is invalid -- plural rule #1; called by setTrackersBlockedCounter
+PluralForm.jsm: Index #1 of '#1 차단됨' for value 0 is invalid -- plural rule #1; called by setTrackersBlockedCounter
+1580303394385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--no-sandbox" "--disable-dev-shm-usage" "user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeOtkBv"
+1580303395476	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580303395680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580303395680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580303395680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580303395681	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1580303401628	Marionette	INFO	Listening on port 36095
+1580303401713	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580303402795	Marionette	INFO	Stopped listening on port 42839
+PluralForm.jsm: Index #1 of '#1 차단됨' for value 0 is invalid -- plural rule #1; called by setTrackersBlockedCounter
+JavaScript error: https://beomi.github.io/js/main.js, line 116: TypeError: chrome://version/ is not a valid URL.
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1580303524837	Marionette	INFO	Stopped listening on port 36095
+1580303526998	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7BOmUw"
+1580303527815	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580303528015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580303528015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580303528016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580303528016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580303531834	Marionette	INFO	Listening on port 46113
+1580303533804	Marionette	WARN	TLS certificate errors will be ignored for this session
+PluralForm.jsm: Index #1 of '#1 차단됨' for value 0 is invalid -- plural rule #1; called by setTrackersBlockedCounter
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1580303808363	Marionette	INFO	Stopped listening on port 46113
+1580303826520	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledK29dN"
+1580303827389	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580303827613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580303827613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580303827613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580303827614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580303831101	Marionette	INFO	Listening on port 34517
+1580303831152	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580303831162	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:35703","noProxy":[],"sslProxy":"127.0.0.1:35703"}
+PluralForm.jsm: Index #1 of '#1 차단됨' for value 0 is invalid -- plural rule #1; called by setTrackersBlockedCounter
+PluralForm.jsm: Index #1 of '#1 차단됨' for value 0 is invalid -- plural rule #1; called by setTrackersBlockedCounter
+PluralForm.jsm: Index #1 of '#1 차단됨' for value 0 is invalid -- plural rule #1; called by setTrackersBlockedCounter
+PluralForm.jsm: Index #1 of '#1 차단됨' for value 0 is invalid -- plural rule #1; called by setTrackersBlockedCounter
+PluralForm.jsm: Index #1 of '#1 차단됨' for value 0 is invalid -- plural rule #1; called by setTrackersBlockedCounter
+PluralForm.jsm: Index #1 of '#1 차단됨' for value 0 is invalid -- plural rule #1; called by setTrackersBlockedCounter
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1580303910468	Marionette	INFO	Stopped listening on port 34517
+1580304092199	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--disable-extensions" "--profile-directory=Default" "--incognito" "--disable-plugins-discovery" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWldOsc"
+1580304093156	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580304093387	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580304093387	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580304093388	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580304093388	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580304097185	Marionette	INFO	Listening on port 35991
+1580304099058	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580304241951	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile25KZ3L"
+1580304242859	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580304242909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580304242909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580304242909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580304242910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580304246375	Marionette	INFO	Listening on port 35005
+1580304246475	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ssl.pstatic.net/static.cbox/20200129180603/js/cbox.eg.js, line 2: TypeError: this.getBrowserRule(...) is undefined
+JavaScript error: https://ssl.pstatic.net/static.cbox/20200129180603/js/cbox.eg.js?r=1, line 2: TypeError: this.getBrowserRule(...) is undefined
+JavaScript error: https://ssl.pstatic.net/static.cbox/20200129180603/js/cbox.eg.js?r=2, line 2: TypeError: this.getBrowserRule(...) is undefined
+JavaScript error: https://ssl.pstatic.net/static.cbox/20200129180603/js/cbox.eg.js?r=3, line 2: TypeError: this.getBrowserRule(...) is undefined
+JavaScript error: , line 0: uncaught exception: failed to load : https://ssl.pstatic.net/static.cbox/20200129180603/js/cbox.eg.js
+1580304312637	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepJVH6g"
+1580304313503	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580304313560	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580304313560	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580304313560	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580304313561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580304317365	Marionette	INFO	Listening on port 42253
+1580304317461	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
